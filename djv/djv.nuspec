@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>djv</id>
+    <title>DJV</title>
+    <version>0.8.3</version>
+    <authors>Darby Johnston</authors>
+    <owners>Albert Omoss</owners>
+    <summary>djv</summary>
+    <description>DJV Imaging provides professional movie playback software for film production, VFX, and computer animation.</description>
+    <projectUrl>http://djv.sourceforge.net/index.html</projectUrl>
+    <tags>djv admin</tags>
+    <copyright>Copyright (c) 2004-2012 Darby Johnston</copyright>
+    <licenseUrl>http://djv.sourceforge.net/legal.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/albiabia/chocolatey-packages/raw/master/djv/djv.gif</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>

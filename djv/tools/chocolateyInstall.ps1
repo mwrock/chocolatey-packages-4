@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'djv' 'exe' '/s /S' 'http://sourceforge.net/projects/djv/files/djv-stable/0.8.3%20Pre2/djv-0.8.3-pre2_winxp-x86.exe/download' 'http://sourceforge.net/projects/djv/files/djv-stable/0.8.3%20Pre2/djv-0.8.3-pre2_winxp-x64.exe/download'  -validExitCodes @(0)
