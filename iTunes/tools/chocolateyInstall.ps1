@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'iTunes' 'exe' '/quiet' 'http://appldnld.apple.com/iTunes10/041-7196.20120912.Ber43/iTunesSetup.exe' 'http://appldnld.apple.com/iTunes10/041-7197.20120912.Frt4R/iTunes64Setup.exe'  -validExitCodes @(0)
