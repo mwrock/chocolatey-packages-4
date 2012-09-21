@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>foldermenu3</id>
+    <title>Folder Menu 3</title>
+    <version>3.1.2.2</version>
+    <authors>rexx26</authors>
+    <owners>Albert Omoss</owners>
+    <summary>Folder Menu 3</summary>
+    <description>Folder Menu is a folder switching tool. You can quickly jump to your favorite folders in explorer, open/save dialog or command prompt...and more. You can also launch your favorite folders, files or urls.</description>
+    <projectUrl>http://foldermenu.sourceforge.net</projectUrl>
+    <tags>foldermenu3 admin</tags>
+    <copyright>Copyright 2006-2011 rexx</copyright>
+    <licenseUrl>http://www.gnu.org/copyleft/gpl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/albiabia/chocolatey-packages/raw/master/foldermenu3/foldermenu3.gif</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>

@@ -1,0 +1,1 @@
+﻿Install-ChocolateyZipPackage 'foldermenu3' 'http://downloads.sourceforge.net/foldermenu/FolderMenu_3.1.2.2.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 'http://downloads.sourceforge.net/foldermenu/FolderMenu_x64_3.1.2.2.zip'
